@@ -1,6 +1,5 @@
 # Xmas-Gift-Sales-Analysis
 Xmas Gift Sales Analysis using SQL &amp; Power BI – Interactive dashboard to track revenue, profit, and trends by season, country, and product hierarchy.
-Dưới đây là bản chuyển ngữ **toàn bộ phần README.md** sang **tiếng Anh**, được viết theo phong cách chuyên nghiệp phù hợp với vị trí **Business Intelligence Analyst**. Mình cũng đã cập nhật phần “Key Insights” đúng theo yêu cầu và số liệu bạn cung cấp.
 
 ---
 
