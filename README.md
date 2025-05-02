@@ -4,6 +4,7 @@ Xmas Gift Sales Analysis using SQL &amp; Power BI – Interactive dashboard to t
 ---
 
 # 🎄 Xmas Gift Sales Analysis | Business Intelligence Portfolio Project
+![image](https://github.com/user-attachments/assets/3c82e6fd-20a9-4bb3-9d96-2a777f6a7719)
 
 ## 📌 A. Project Overview
 
