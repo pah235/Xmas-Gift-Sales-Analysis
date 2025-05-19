@@ -1,5 +1,5 @@
 # Xmas-Gift-Sales-Analysis
-Xmas Gift Sales Analysis using SQL &amp; Power BI – Interactive dashboard to track revenue, profit, and trends by season, country, and product hierarchy.
+Xmas Gift Sales Analysis using SQL &amp; Power BI – Interactive report to track revenue, profit, and trends by season, country, and product hierarchy.
 
 ---
 
@@ -24,7 +24,7 @@ Xmas Gift Sales Analysis using SQL &amp; Power BI – Interactive dashboard to t
 - Created advanced **DAX measures** to calculate KPIs and seasonal comparisons.
 - Designed interactive reports using Power BI visuals (bar charts, donut charts, matrix tables, etc.).
 - Implemented key reporting features: **Drill-down**, **Drill-through**, **Tooltips**, **Bookmarks**, and **Parameters**.
-- Delivered a fully interactive **dashboard presentation** tailored for executive stakeholders.
+- Delivered a fully interactive **report presentation** tailored for executive stakeholders.
 
 ---
 
@@ -39,7 +39,7 @@ The dataset was provided by [FP20 Analytics – Challenge 12](https://fp20analyt
 - A custom `dim_date` table was added to support seasonal time intelligence
 
 #### 📊 Business Objective
-As a Business Intelligence Analyst in the IT Department, your responsibility is to deliver performance dashboards and actionable insights for executive leadership and functional units during the Christmas campaign season.
+As a Business Intelligence Analyst in the IT Department, your responsibility is to deliver performance report and actionable insights for executive leadership and functional units during the Christmas campaign season.
 
 ---
 
@@ -63,7 +63,7 @@ As a Business Intelligence Analyst in the IT Department, your responsibility is 
 - 🧾 **Total Profit**
 - 🔁 **Season-over-Season Growth** by Product Group and Country
 
-### 4. Data Visualization & Dashboard Design
+### 4. Data Visualization & Report Design
 
 - Created multiple Power BI pages with clean layout and navigation.
 - Used various visuals:
@@ -95,7 +95,7 @@ As a Business Intelligence Analyst in the IT Department, your responsibility is 
 
 | File Name                        | Description                                 |
 |----------------------------------|---------------------------------------------|
-| `Xmas Gift Sales Analysis.pbix` | Power BI dashboard project                  |
+| `Xmas Gift Sales Analysis.pbix` | Power BI Report project                  |
 | `Xmas Gift Sales Analysis.sql`  | SQL scripts used for data exploration       |
 | `README.md`                     | Project documentation and case overview     |
 
