@@ -54,6 +54,7 @@ As a Business Intelligence Analyst in the IT Department, your responsibility is 
 - Standardized column names, fixed data types, and created calculated columns.
 - Added a `dim_date` table to handle time-based analysis (seasonal and monthly).
 - Established **relationships** between fact and dimension tables for robust analysis.
+<img width="494" alt="image" src="https://github.com/user-attachments/assets/c45bb763-bbdf-427f-9af5-93cb9aba81ea" />
 
 ### 3. KPI Definition Using DAX
 
