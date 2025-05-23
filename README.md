@@ -5,8 +5,8 @@ Xmas Gift Sales Analysis using SQL &amp; Power BI – Interactive report to trac
 
 # 🎄 Xmas Gift Sales Analysis | Business Intelligence Portfolio Project
 ![image](https://github.com/user-attachments/assets/3c82e6fd-20a9-4bb3-9d96-2a777f6a7719)
-- 👉 You can download the interactive Power BI report (.pbix) file [here](https://github.com/pah235/Xmas-Gift-Sales-Analysis-Report/blob/main/Xmas%20Gift%20Sales%20Analysis.pbix)
-- 👉 You can view the SQL script [here](https://github.com/pah235/Xmas-Gift-Sales-Analysis-Report/blob/main/Xmas%20Gift%20Sales%20Analysis.sql)
+- 👉 **You can download the interactive Power BI report (.pbix) file** [**here**](https://github.com/pah235/Xmas-Gift-Sales-Analysis-Report/blob/main/Xmas%20Gift%20Sales%20Analysis.pbix)
+- 👉 **You can view the SQL script** [**here**](https://github.com/pah235/Xmas-Gift-Sales-Analysis-Report/blob/main/Xmas%20Gift%20Sales%20Analysis.sql)
 ## 📌 A. Project Overview
 
 ### 1. Scope of Tools & Skills Applied
